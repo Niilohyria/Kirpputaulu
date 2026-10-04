@@ -1,0 +1,72 @@
+.Jelou{
+    background-color: rgba(255, 247, 0, 0.5);
+    width: 3500px;
+    height: 100px;
+    position: absolute;
+    top: 0px;
+    left: 00px;
+}
+.Otsikko{
+    text-align: center;
+    color: hotpink;
+}
+.Pinkki{
+    background-color: rgb(227, 129, 146, 0.5);
+    top: 101px;
+    left: 00px;
+    position: absolute;
+    height: 2000px;
+    width: 3500px;
+}
+.Eka{
+    position: absolute;
+    left: 550px;
+    top: 380px;
+    padding: 50px;
+    margin: 20px;
+    background-color: blue;
+}
+.Ekaimits{
+    position: absolute;
+    top: 101px;
+    left: 0px;
+}
+.Toinenimits{
+    position: absolute;
+    left: 790px;
+    top: 101px;
+}
+.Toka{
+    position: absolute;
+    left: 1450px;
+    top: 380px;
+    padding: 50px;
+    margin: 20px;
+    background-color: blue;
+}
+.Kolmas{
+    position: absolute;
+    left: 140px;
+    top: 1080px;
+    padding: 50px;
+    margin: 20px;
+    background-color: blue;
+}
+.Kolmasimits{
+    position: absolute;
+    left: 450px;
+    top: 820px;
+}
+.Neljäs{
+    position: absolute;
+    left: 1040px;
+    top: 1080px;
+    padding: 50px;
+    margin: 20px;
+    background-color: blue;
+}
+.Neljäsimits{
+    position: absolute;
+    left: 1300px;
+    top: 820px;
+}
